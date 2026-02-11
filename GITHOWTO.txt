@@ -5,6 +5,12 @@
 1. Install git from
    https://git-scm.com
 
+1a. There is a nice book about git:
+
+https://git-scm.com/book/en/v2
+
+For us, chapters 1,2,4 are relevant.
+
 2. Start a git-bash-shell
 
 3. Create a directory named .ssh in your home directory:
